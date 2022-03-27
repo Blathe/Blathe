@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Blathe
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning .NET Core and NextJS/React
