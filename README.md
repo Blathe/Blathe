@@ -7,7 +7,7 @@
 ## Let's Talk
 
 
-[![Scott's Portfolio](https://img.shields.io/badge/scott%20peters-123?style=for-the-badge&logo=linkedin&color=orange&label=portfolio)](www.scottpeters.dev)
+[![Scott's Portfolio](https://img.shields.io/badge/scott%20peters-123?style=for-the-badge&logo=linkedin&color=orange&label=portfolio)](https://www.scottpeters.dev)
 
 
 
