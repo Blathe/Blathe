@@ -1,5 +1,5 @@
 ## Hi, 👋 I’m Scott
-- I'm currently attending Western Govern's University for my Bachelor's in Software Development.
+- I'm currently attending Western Govern's University for my Bachelor's in Software Engineering.
 
 - I enjoy front end and back end development.
 
