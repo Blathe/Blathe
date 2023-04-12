@@ -3,7 +3,7 @@
 
 - I enjoy front end and back end development.
 
-- I really like C#.
+- I really like C# and Python
 
 
 ## Let's Connect!
