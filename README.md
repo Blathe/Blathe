@@ -1,5 +1,5 @@
 ## Hi, 👋 I’m Scott
-- I'm currently attending Western Govern's University for my Bachelor's in Software Engineering.
+- I recently graduated with my Bachelor's in Software Engineering from WGU and I am currently open to work!
 
 - I enjoy front end and back end development.
 
