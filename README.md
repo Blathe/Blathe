@@ -1,16 +1,16 @@
-## Hi, 👋 I’m Scott
-- I recently graduated with my Bachelor's in Software Engineering from WGU and I am currently open to work!
+## Hey, 👋 I’m Scott
 
-- I enjoy front end and back end development.
+#### :rocket: Software Engineer - :robot: AI Enthusiast - :fish: Outdoorsman
 
-- I really like C# and Python
+![Static Badge](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=f5f5f5)  ![Static Badge](https://img.shields.io/badge/CSharp-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/TypeScript-green?style=for-the-badge&logo=typescript&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/Claude-gray?style=for-the-badge&logo=claude&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/Codex-red?style=for-the-badge)
 
+>All in on vibe-coding and learning more agentic workflows. Excited to see where things go.
+
+## Current Projects
+
+:computer: [NET-Debug-Bar](https://github.com/Blathe/Net-Debug-Bar): A debug bar inspired by the Laravel Debug Bar, built for .NET 9+ web applications.
 
 ## Let's Connect!
 
+[![Scott's Portfolio](https://img.shields.io/badge/scott%20peters-123?style=for-the-badge&logo=linkedin&color=orange&label=portfolio)](https://www.scottpeters.dev) [![Scott's LinkedIn](https://img.shields.io/badge/scott%20peters-123?style=for-the-badge&logo=linkedin&color=blue&label=linkedin)](https://www.linkedin.com/in/scott-peters-b93919223/)
 
-[![Scott's Portfolio](https://img.shields.io/badge/scott%20peters-123?style=for-the-badge&logo=linkedin&color=orange&label=portfolio)](https://www.scottpeters.dev)
-
-
-
-[![Scott's LinkedIn](https://img.shields.io/badge/scott%20peters-123?style=for-the-badge&logo=linkedin&color=blue&label=linkedin)](https://www.linkedin.com/in/scott-peters-b93919223/)
