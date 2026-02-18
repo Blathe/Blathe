@@ -4,7 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=f5f5f5)  ![Static Badge](https://img.shields.io/badge/CSharp-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/TypeScript-green?style=for-the-badge&logo=typescript&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/Claude-gray?style=for-the-badge&logo=claude&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/Codex-red?style=for-the-badge)
 
->All in on vibe-coding and learning more agentic engineering workflows. Excited to see where things go.
+>All in on agentic engineering workflows. Excited to see where things go.
 
 ## Current Projects
 
