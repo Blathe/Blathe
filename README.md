@@ -8,6 +8,8 @@
 
 ## Current Projects
 
+🦝 [CLANKER](https://github.com/Blathe/clanker): A security focused trash panda AI agent.
+
 💻 [NET-Debug-Bar](https://github.com/Blathe/Net-Debug-Bar): A debug bar inspired by the Laravel Debug Bar, built for .NET 9+ web applications.
 
 🔨 [Mock-Forge](https://github.com/Blathe/mock-forge): MockForge is a mock backend-as-a-service for when you need an API right now—for frontend development, demos, QA, or integration testing—without waiting on a real backend.
