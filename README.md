@@ -8,7 +8,7 @@
 
 ## Current Projects
 
-🦝 [CLANKER](https://github.com/Blathe/clanker): A security focused trash panda AI agent.
+🦝 [PVIEW](https://github.com/Blathe/pview): Terminal UI for monitoring a single process's CPU, memory, and disk I/O in real time — htop, scoped to one process.Terminal UI for monitoring a single process's CPU, memory, and disk I/O in real time — think htop, scoped to one process.
 
 💻 [NET-Debug-Bar](https://github.com/Blathe/Net-Debug-Bar): A debug bar inspired by the Laravel Debug Bar, built for .NET 9+ web applications.
 
